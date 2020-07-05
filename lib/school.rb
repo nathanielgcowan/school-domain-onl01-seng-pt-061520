@@ -13,6 +13,8 @@ class School
     
   end
   
-  def grade
-    roster
+  def grade(grade)
+    roster(grade)
+  end
+  
 end
