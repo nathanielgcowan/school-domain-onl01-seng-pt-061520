@@ -1,6 +1,8 @@
 class School
   
-  def 
+  def initialize (name)
+    @name = name
+  end
   
   
 end
