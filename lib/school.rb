@@ -1,3 +1,3 @@
 class School
   
-  attr_reader :name
+  attr_reader :name, :roster
