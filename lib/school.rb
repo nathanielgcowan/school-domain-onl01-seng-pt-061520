@@ -2,7 +2,7 @@ class School
   
  attr_reader :name,:roster
  
- def initialie (name,game)
+ def initialie (name,roster)
    @name
   end
   
