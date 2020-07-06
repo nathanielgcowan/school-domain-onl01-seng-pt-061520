@@ -1,5 +1,6 @@
 class School
   
-  def grade
+  def grade(grade)
+    
   
 end
