@@ -10,4 +10,8 @@ class School
     @game
   end
   
+  def roster
+    roser = {}
+  end
+  
 end
