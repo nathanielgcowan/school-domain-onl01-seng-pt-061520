@@ -5,6 +5,6 @@ class School
   end
   
   def sort
-    self.roster
+    self.roster.each do |key,value|
   
 end
