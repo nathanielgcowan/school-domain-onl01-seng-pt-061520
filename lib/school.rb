@@ -8,6 +8,6 @@ class School
   end
   
  def grade(grade)
-   
+   self.rosrer
   
 end
