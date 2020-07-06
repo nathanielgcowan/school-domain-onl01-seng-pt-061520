@@ -1,7 +1,13 @@
 class School
   
- def grade(grade)
-   self.rosrer[grade]
+ attr_reader :name,:roster
+ 
+ def initialie (name,game)
+   @name
+  end
+  
+  def game
+    @game
   end
   
 end
