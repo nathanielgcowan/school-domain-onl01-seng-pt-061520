@@ -3,4 +3,5 @@ class School
   attr_reader :name, :roster
   
   def initialie(name)
-    @name=name
+    @name = name
+    @roster = 
