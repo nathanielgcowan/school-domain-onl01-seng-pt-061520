@@ -5,3 +5,6 @@ class School
   def initialie(name)
     @name = name
     @roster = {}
+  end
+  
+  
