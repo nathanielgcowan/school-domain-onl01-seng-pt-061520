@@ -8,6 +8,7 @@ class School
   end
   
  def grade(grade)
-   self.rosrer
+   self.rosrer[grade]
+   
   
 end
